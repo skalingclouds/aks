@@ -9,7 +9,8 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
-
+*export.swp
+.TF_VAR*
 # Crash log files
 crash.log
 
